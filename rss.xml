@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jarmyn T Productions]]></title>
+        <description><![CDATA[Jarmyn T Productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 00:56:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DNA Model]]></title>
+            <description><![CDATA[<article><h1>DNA Model</h1><p>A DNA Sequence</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2276697-1dfb-4388-a3e2-98f03d7c2a80.png"></article>]]></description>
+            <link>undefineddna-model/index.html</link>
+            <guid isPermaLink="false">460e1fd2-1964-4538-8e35-64cba9cf432b</guid>
+            <pubDate>Mon, 11 Apr 2016 00:56:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
