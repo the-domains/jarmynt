@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jarmyn T Productions]]></title>
         <description><![CDATA[Jarmyn T Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jarmynt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 00:56:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 02:28:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jarmynt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Battle Mech - Madcat MkII]]></title>
+            <description><![CDATA[<article><h1>Battle Mech - Madcat MkII</h1><p>Modelled, Textured (NPR), and Post Processing in Blender. Rendered  in Cycles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/146be8ce0436613bb69951e46aa11a9ff4220fd6.png"></article>]]></description>
+            <link>https://thegrid.ai/jarmynt/battle-mech-madcat-mkii/index.html</link>
+            <guid isPermaLink="false">65ea1d53-d59f-4522-adcd-4f4c2fbee4b3</guid>
+            <pubDate>Mon, 11 Apr 2016 02:28:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DNA Model]]></title>
             <description><![CDATA[<article><h1>DNA Model</h1><p>A DNA Sequence</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2276697-1dfb-4388-a3e2-98f03d7c2a80.png"></article>]]></description>
-            <link>undefineddna-model/index.html</link>
+            <link>https://thegrid.ai/jarmynt/dna-model/index.html</link>
             <guid isPermaLink="false">460e1fd2-1964-4538-8e35-64cba9cf432b</guid>
             <pubDate>Mon, 11 Apr 2016 00:56:31 GMT</pubDate>
         </item>
